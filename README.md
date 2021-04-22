@@ -8,7 +8,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -55,7 +54,7 @@ This helped me learn that I need to get a better understanding of CSS layouts su
 ## Author
 
 - Website - [Monet Cooper](https://smonetc.github.io/monetcooper/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/smonetc)
+- Frontend Mentor - [@smonetc](https://www.frontendmentor.io/profile/smonetc)
 - Twitter - [@helloitsmonet](https://twitter.com/helloitsmonet)
 
 
